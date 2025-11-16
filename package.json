@@ -1,7 +1,7 @@
 {
   "name": "hm_10",
   "version": "0.1.0",
-  "homepage": "https://artemanoh.github.io/hm_8",
+  "homepage": "https://artemanoh.github.io/hm_10",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
