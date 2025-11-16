@@ -65,5 +65,5 @@ class App extends Component {
     );
   }
 }
-
+// тяжко тяжко:(
 export default App;
